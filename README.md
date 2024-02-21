@@ -21,7 +21,7 @@ IntelliJ
 
 **Firstly** I extracted apk from below github project :
 https://github.com/IhwanID/belajar-android-jetpack-pro as you can see here 
-![](C:\Users\user\Desktop\MovieApp\src\test\resources\App installed on Alaa Device.png)
+![](.\src\test\resources\App installed on Alaa Device.png)
 
 find it in ".\MovieApp\AppResources" folder 
 
@@ -36,6 +36,6 @@ _adb shell dumpsys window windows | grep -E 'mCurrentFocus|mFocusedApp'_
 
 **Fourthly** I created Maven Project and Add Pom dependencies and use Appium Inspector 
 
-![](C:\Users\user\Desktop\MovieApp\src\test\resources\Get element on aooium inspector.png)
+![](~\src\test\resources\Get element on aooium inspector.png)
 
 **fifthly** I Generated Access token from "https://developer.themoviedb.org/reference/intro/authentication"
